@@ -1,0 +1,6 @@
+*.swp
+user.json
+__pycache__/
+*~
+*.un~
+saves/
